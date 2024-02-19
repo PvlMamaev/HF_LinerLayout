@@ -14,11 +14,6 @@
         android:hint="To"
         android:inputType="text"/>
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Not needed button"/>
-
     <EditText
         android:id="@+id/edit_text_2"
         android:layout_width="match_parent"
